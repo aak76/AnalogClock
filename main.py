@@ -2,6 +2,7 @@ import pygame
 from datetime import datetime
 import math
 
+
 RES = WIDTH, HEIGHT = 1200, 800
 H_WIDTH, H_HEIGHT = WIDTH // 2, HEIGHT // 2
 RADIUS = H_HEIGHT - 50
